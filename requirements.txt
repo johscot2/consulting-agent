@@ -1,0 +1,10 @@
+swarm-python
+beautifulsoup4
+requests
+openai
+supabase
+pinecone-client
+tavily-python
+python-dotenv
+pandas
+numpy
